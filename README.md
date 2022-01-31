@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 
 ###  Links
 
-- Solution URL: [Add solution URL here](https://github.com/Larvin-Vinicius/order-summary-component-pratica)
+- Solution URL: [Add solution URL here](https://github.com/Larvin-Vinicius/order-summary-component-praticle)
 
 - Live Site URL: [Add live site URL here](https://03oin.csb.app/)
 
